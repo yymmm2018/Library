@@ -5,6 +5,5 @@
     <artifactId>Sakura_work</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>Sakura_work_web</artifactId>
-  <packaging>war</packaging>
+  <artifactId>Sakura_work_base</artifactId>
 </project>
